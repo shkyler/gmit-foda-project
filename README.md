@@ -6,13 +6,13 @@ This repository contains all of the files pertaining to my project submission fo
 ### Repository contents
 
 The repository contains:
-* boxplot.ipynb - the notebook with all the project detail
-* this README.md file
+* `boxplot.ipynb` - the notebook with all the project detail
+* this `README.md` file
 * an `img` folder containing images for the notebook
 
 ### Dependancies
 
-The dependencies for project are:
+The dependencies for the project are:
 * Python 3
 * matplotlib.pyplot
 * numpy
