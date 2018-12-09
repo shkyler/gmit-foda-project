@@ -9,6 +9,7 @@ The repository contains:
 * `boxplot.ipynb` - the notebook with all the project detail
 * this `README.md` file
 * an `img` folder containing images for the notebook
+* `boxplot.html` - a [html rendered version](https://nbconvert.readthedocs.io/en/latest/) of the notebook that can be shared with non-technical colleagues and viewed with a web browser
 
 ### Dependancies
 
